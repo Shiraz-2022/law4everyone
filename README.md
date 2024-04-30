@@ -1,6 +1,12 @@
 # law4everyone
 
 # Introducing "Law4everyone":
+Frontend - https://github.com/Shiraz-2022/law4everyoneFrontend  
+
+Backend - https://github.com/Shiraz-2022/law4everyone_backend  
+
+ML - https://github.com/Shiraz-2022/law4everyone_reccomendation_system
+
 # Your Comprehensive Legal Solutions Platform
 Law4everyone is your ultimate destination for a seamless and accessible legal experience. This is
 a user-friendly app that streamlines the process of obtaining legal information,
