@@ -8,7 +8,7 @@ Backend - https://github.com/Shiraz-2022/law4everyone_backend
 ML - https://github.com/Shiraz-2022/law4everyone_reccomendation_system
 
 # Tech stack 
-React native, Node JS, Express JS, MongoDB, Flask, Chatgpt API, Opencage API
+React native, Node JS, Express JS, MongoDB, Socket.io, Flask, Chatgpt API, Opencage API
 
 # Your Comprehensive Legal Solutions Platform
 Law4everyone is your ultimate destination for a seamless and accessible legal experience. This is
