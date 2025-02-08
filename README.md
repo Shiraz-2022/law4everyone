@@ -18,7 +18,6 @@ Law4Everyone is an inclusive platform designed to make legal knowledge and assis
 ## Project Structure
 
 - **Backend**: https://github.com/Shiraz-2022/law4everyone_backend 
-- **Frontend**: https://github.com/Shiraz-2022/law4everyoneFrontend
 - **ML**: https://github.com/Shiraz-2022/law4everyone_reccomendation_system
 
 ## Contact
